@@ -7,7 +7,7 @@
 Only members of the following Entra ID security group are authorized to execute bot commands:
 
 ```text
-SG_IT-Bot-Requesters
+SG_Contoso_IT-Bot-Requesters
 ```
 
 The flow explicitly validates group membership **before** any privileged action is executed.
